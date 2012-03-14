@@ -34,4 +34,6 @@ Or install it yourself as:
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
+Questions or problems? Please post them on the [issue tracker](https://github.com/CreativeMobile/geomagic/issues). 
+
 This gem is created by Arturs Braucs in Creative Mobile and is under the MIT License.
