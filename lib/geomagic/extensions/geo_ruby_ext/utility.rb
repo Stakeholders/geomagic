@@ -13,7 +13,15 @@ module Geomagic
             _points
           end
           
-          
+          class GeoRuby::SimpleFeatures::LineString
+            def to_coordinates
+              _points = []
+              points.each do |point|
+                _points << [point.lat, point.lng]
+              end
+              _points
+            end
+          end
           
         end
       end
