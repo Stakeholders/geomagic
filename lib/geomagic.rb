@@ -6,7 +6,7 @@ require "active_support/dependencies"
 require "active_record"
 require "action_controller"
 
-require "geokit-rails3"
+require "geokit-rails"
 require "geocoder"
 require 'geo_ruby'
 
