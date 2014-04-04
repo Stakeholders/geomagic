@@ -17,7 +17,7 @@ Gem::Specification.new do |gem|
 
   gem.add_development_dependency "rspec"
 
-  gem.add_dependency "geokit-rails3"
+  gem.add_dependency "geokit-rails"
   gem.add_dependency "geocoder"
   gem.add_dependency "GeoRuby"
 
